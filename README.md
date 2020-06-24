@@ -20,3 +20,10 @@
 1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-2/Day2.ipynb)
 
 4. [Recorded video download  if you want expire in 7 days](https://transcripts.gotomeeting.com/#/s/ff61529b51be9906e4b75c3e9f7b00a407fa6ed44c0611debb1825f467033dbf)
+
+
+## Day-3
+
+1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-3/Day3.ipynb)
+
+4. [Recorded video download  if you want expire in 7 days](https://transcripts.gotomeeting.com/#/s/0491b43e462776a86b1bc48a889b326eba9e7ad251ce2fc33d929c96b07b560e)
