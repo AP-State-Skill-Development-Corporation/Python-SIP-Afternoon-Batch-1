@@ -51,5 +51,11 @@
 2. [Recorded video download  if you want expire in 7 days](https://transcripts.gotomeeting.com/#/s/a8dfbdcf2ca7f2bd71dd5712a35d66ef4d21027cf4bbef8d165331a92d3b5e27)
 
 
+## Day-8
+1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-8/Day8.ipynb)
+
+2. [Recorded video download  if you want expire in 7 days]()
+
+
 
 
