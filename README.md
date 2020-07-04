@@ -71,6 +71,9 @@
 ## Day-11
 1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day11.ipynb)
 
+2. [Recorded video download  if you want expire on sunday 05July2020 ](https://transcripts.gotomeeting.com/#/s/a72bfb303e85e3efbbcdac7429232a1066a7556a6baa49123ea0bd055502b101
+)
+
 
 
 
