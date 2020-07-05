@@ -72,13 +72,15 @@
 2. [Recorded video download  if you want expire in 1 day](https://transcripts.gotomeeting.com/#/s/8ba9f03dac58b7034e37db1ee8316b78f5c8e496adc96bef45619b9765209587)
 
 ## Day-11
-1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day11.ipynb)
+1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-11/Day11.ipynb)
 
 2. [Recorded video download  if you want expire on sunday 05July2020 ](https://transcripts.gotomeeting.com/#/s/a72bfb303e85e3efbbcdac7429232a1066a7556a6baa49123ea0bd055502b101)
 
 ## Day-12
-1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day12.ipynb)
+1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-12/Day12.ipynb)
 
+
+2. [Recorded video download  if you want expire on sunday 05July2020 ](https://drive.google.com/file/d/142lRayiejeudaxdlidRQiab25qTHRi_Z/view?usp=sharing)
 
 
 
