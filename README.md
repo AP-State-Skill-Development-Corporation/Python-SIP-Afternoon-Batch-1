@@ -1,7 +1,7 @@
 # Python-Programming-Summer-Online-Training-Afternoon-Batch-1
 ### From 22-06-2020 to 11-06-2020
 
-## Online Training Link --> [Click Here](https://global.gotomeeting.com/install/351028021)
+## Online Training Link meeting id 500046325--> [Click Here](https://global.gotomeeting.com/join/500046325)
 ## Verify Your Roll Number --> [Here](https://docs.google.com/spreadsheets/d/1HzJhIDfu73W71taEA_cRyFEbUke80-h3T2PUtoAol9Q/edit?usp=sharing)
 
 **`Note:` If you need the recorded videos for future reference download all videos and save it in your Desktop/Laptop/Mobile they will be expired on 05 July 2020**
