@@ -1,0 +1,4 @@
+sai 50 60 
+ram 40 50
+lakshmi 70 80
+ravi 100 100
