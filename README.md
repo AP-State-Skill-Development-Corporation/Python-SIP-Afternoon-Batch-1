@@ -90,4 +90,10 @@
 2. [Recording expire in 12July2020 sunday](https://transcripts.gotomeeting.com/#/s/7a61fb9b42f4da6e2d06ea6eb23a78aceade5ccf70c7700aff1c0c21df0d7bbd)
 
 
+## Day-14
+1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-14/Day-14.ipynb)
+
+
+2. [Not updated Recording expire in 12July2020 sunday]()
+
 
