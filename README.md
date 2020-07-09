@@ -107,5 +107,6 @@
 
 ## Day-16
 1.[income.csv](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/income.csv)
+2.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day16.ipynb)
 
 
