@@ -105,4 +105,7 @@
 
 3. [part2 Recording expire in 12July2020 sunday](https://transcripts.gotomeeting.com/#/s/1239e19abd38daccd7255b059f90a4bee462630145790e5f7067e74b44a4de19)
 
+## Day-16
+1.[income.csv](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/income.csv)
+
 
