@@ -107,6 +107,7 @@
 
 ## Day-16
 1.[income.csv](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/income.csv)
-2.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day16.ipynb)
-
+2.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day-16/Day16.ipynb)
+3. [Recording expire in 12July2020 sunday](https://transcripts.gotomeeting.com/#/s/000fa8ea3f67608f8163d14bff2deed980657e4c5248619d073a06c2466409b4
+)
 
