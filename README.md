@@ -114,4 +114,4 @@
 1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Python-SIP-Afternoon-Batch-1/blob/master/Day17.ipynb)
 
 ## All Video
-1. videos May be removed before 31july2020 download if you want (https://drive.google.com/drive/folders/1U89gbRaCBn0dpYCGjy_AxFcPUjld4W_5?usp=sharing) 
+1. [videos May be removed before 31july2020 download if you want](https://drive.google.com/drive/folders/1U89gbRaCBn0dpYCGjy_AxFcPUjld4W_5?usp=sharing) 
